@@ -1,8 +1,8 @@
 # Site settings
-title: LexiCanna
+title: Lexicanna
 email: info@lexicanna.com
 description: > # this means to ignore newlines until "baseurl:"
-  Marijuana Information Systems. A tool to navigate Oregon's new cannabis laws and regulations.
+  Marijuana Information Systems. Lexicanna is a tool to navigate Oregon's new cannabis laws and regulations.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lexicanna.com" # the base hostname & protocol for your site
 twitter_username: lexi_canna
