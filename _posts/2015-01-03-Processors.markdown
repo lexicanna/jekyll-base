@@ -2,7 +2,7 @@
 layout: post
 title:  "Processors"
 date:   2015-01-03 13:46:40
-categories: processor, phoenix
+categories: processor
 ---
 
 Phoenix keeps its legal codes online. The section on the application requirements is here:
