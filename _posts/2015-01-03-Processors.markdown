@@ -10,6 +10,7 @@ Phoenix keeps its legal codes online. The section on the application requirement
 [https://www.municode.com/library/or/phoenix/codes/code_of_ordinances?nodeId=TIT5BUTALIRE_CH5.18CAFALI_5.18.040APPR&showChanges=true](https://www.municode.com/library/or/phoenix/codes/code_of_ordinances?nodeId=TIT5BUTALIRE_CH5.18CAFALI_5.18.040APPR&showChanges=true)
 
 Summary:
+
   - notarized statement of ownership of the property or notarized permission from owner to apply
   - floor plan, site plan and security measures
   - any improvements to be made relating to cannabis
